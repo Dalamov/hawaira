@@ -1002,6 +1002,12 @@ footer.copyright a{
 .nav-background .mobile-logo{
     padding:1rem;
 }
+
+.nav-background .mobile-logo img {
+    max-width: 5rem;
+    max-height: 5rem;
+}
+
 .nav-background .mobile-nav{
     padding:1rem;
 }

@@ -369,9 +369,11 @@ label {
   }
   .justify-between{
     justify-content: space-between;
+    font-family: "Raleway-bold";
   }
   .items-center{
-      align-items: center;
+    font-family: "Raleway-bold";
+    align-items: center;
   }
   nav .top{
       padding:1.5rem 0;
