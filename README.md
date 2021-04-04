@@ -19,4 +19,5 @@ Built With
 
 
 License
+MIT
 
